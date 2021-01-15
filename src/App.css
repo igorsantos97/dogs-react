@@ -8,6 +8,7 @@ body {
   color: #333;
   font-family: var(--type-first);
   margin: 0px;
+  padding-top: 4rem;
 }
 
 h1,
@@ -36,6 +37,10 @@ input {
   display: block;
   font-family: var(--type-first);
   font-size: 1rem;
+}
+
+a {
+  text-decoration: none;
 }
 
 .container {
