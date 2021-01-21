@@ -17,7 +17,7 @@
   cursor: pointer;
 }
 
-.photo img,
+.photo > div,
 .vizualizacao {
   grid-area: 1/1;
 }
@@ -29,6 +29,7 @@
   text-align: center;
   align-items: center;
   justify-content: center;
+  grid-area: 1/1;
   display: none;
 }
 
