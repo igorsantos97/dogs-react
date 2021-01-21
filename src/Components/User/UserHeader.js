@@ -17,7 +17,7 @@ const UserHeader = () => {
         setTitle('Poste sua foto');
         break;
       default:
-        setTitle('Conta');
+        setTitle('Minha Conta');
     }
   }, [location]);
 
